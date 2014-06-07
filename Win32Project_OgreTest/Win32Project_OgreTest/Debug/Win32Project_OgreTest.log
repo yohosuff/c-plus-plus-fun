@@ -1,0 +1,20 @@
+﻿Build started 6/6/2014 8:23:07 PM.
+     1>Project "C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Win32Project_OgreTest\Win32Project_OgreTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\include" /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\include\OIS" /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\include\OGRE" /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\Samples\Common\include" /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\boost" /I"C:\OgreSDK\OgreSDK_vc11_v1-9-0\include\OGRE\Overlay" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BaseApplication.cpp TutorialApplication.cpp
+         TutorialApplication.cpp
+         BaseApplication.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Debug\Win32Project_OgreTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\OgreSDK\OgreSDK_vc11_v1-9-0\lib\Debug" /LIBPATH:"C:\OgreSDK\OgreSDK_vc11_v1-9-0\boost\lib" OgreMain_d.lib OIS_d.lib OgreOverlay_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Debug\Win32Project_OgreTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Debug\Win32Project_OgreTest.lib" /MACHINE:X86 Debug\BaseApplication.obj
+         Debug\TutorialApplication.obj
+         Win32Project_OgreTest.vcxproj -> C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Debug\Win32Project_OgreTest.exe
+       PostBuildEvent:
+         copy "C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Debug\\Win32Project_OgreTest.exe" "C:\OgreSDK\OgreSDK_vc11_v1-9-0\Bin\Debug"
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\yohosuff\Documents\GitHub\c-plus-plus-fun\Win32Project_OgreTest\Win32Project_OgreTest\Win32Project_OgreTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:20.15
